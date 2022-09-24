@@ -1,0 +1,22 @@
+h1
+{text-align: center;
+color:blue;}
+h2, p
+{text-align: center;}
+img
+{width:50%;margin-left: 25%;border-radius: 50%;}
+.bouton 
+{
+    text-align: center; margin-top: 2%;
+}
+.time
+{
+    width: 20%;  margin-left: 40%;text-align: center; margin-top: 2%;}
+
+.Myprofile
+{margin-top: 2%;
+    box-sizing: content-box;
+width: 80%; margin-left: 10%;
+border: solid blue 1px;
+padding: 5px;
+}
